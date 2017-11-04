@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:00,000 --> 00:00:07,379
 Let's squash the last three commits together with git rebase -i HEAD~3.
 

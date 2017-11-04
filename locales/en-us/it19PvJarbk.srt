@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:00,499 --> 00:00:04,019
 OK, so now maybe we've made a
 bunch of files and directories

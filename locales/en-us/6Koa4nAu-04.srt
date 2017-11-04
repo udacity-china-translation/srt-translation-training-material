@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:00,000 --> 00:00:05,519
 Understanding what a remote repository is and how to get and send changes to one,
 

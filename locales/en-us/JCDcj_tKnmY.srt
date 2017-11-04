@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:00,000 --> 00:00:05,089
 You've probably come across or had to use the mystical "this" keyword.
 

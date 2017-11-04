@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:00,620 --> 00:00:04,410
 So here's a way to define is_palindrome. So we're taking
 

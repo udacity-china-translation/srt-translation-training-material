@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:00,000 --> 00:00:04,544
 We've got here the three sections of our repository: the working directory,
 

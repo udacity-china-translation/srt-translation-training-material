@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:00,440 --> 00:00:04,680
 So here's how we could define factorial. And,
 

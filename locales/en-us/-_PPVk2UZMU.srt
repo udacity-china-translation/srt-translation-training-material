@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:00,000 --> 00:00:06,325
 We look that git commits dash dash amend flag to reword or update the most recent commit.
 

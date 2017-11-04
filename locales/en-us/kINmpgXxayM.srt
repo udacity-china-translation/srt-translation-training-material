@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:00,500 --> 00:00:03,330
 One more cool little trick
 for customizing the shell--

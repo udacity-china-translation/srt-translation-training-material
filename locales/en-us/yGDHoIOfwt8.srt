@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:00,000 --> 00:00:03,060
 Now that we've written all the parts of the Wikipedia crawler,
 

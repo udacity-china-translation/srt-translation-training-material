@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:00,000 --> 00:00:02,589
 Now that we have defined the problem we're trying to solve,
 

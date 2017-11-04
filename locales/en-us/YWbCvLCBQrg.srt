@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:00,000 --> 00:00:03,000
 Let's apply our knowledge of HTML to a real page.
 

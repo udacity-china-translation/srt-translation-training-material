@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:00,499 --> 00:00:03,430
 When you start up a
 terminal, what do you see?

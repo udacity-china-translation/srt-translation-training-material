@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:00,000 --> 00:00:04,290
 This is the lesson where we finally learn how to make commits of our very own.
 

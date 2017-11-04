@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:00,310 --> 00:00:02,630
 So, that idea for how to rank webpages is
 

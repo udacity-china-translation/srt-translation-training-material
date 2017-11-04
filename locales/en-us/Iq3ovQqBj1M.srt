@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:00,000 --> 00:00:04,865
 I'll calculate the average of these numbers by adding them up and dividing by three.
 

@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:00,000 --> 00:00:02,370
 Presenter 1: That's it for lesson one. We've covered
 

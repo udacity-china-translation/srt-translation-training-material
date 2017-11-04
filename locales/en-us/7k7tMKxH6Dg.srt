@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:00,480 --> 00:00:02,848
 So here's a way to define Fibonacci iteratively.
 

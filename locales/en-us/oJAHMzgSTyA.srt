@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:00,130 --> 00:00:04,440
 So the goal is to define a faster Fibonacci procedure, fast enough
 

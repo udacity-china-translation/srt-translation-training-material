@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:00,100 --> 00:00:03,100
 So now that you've survived the bunny uprising, we're ready to
 

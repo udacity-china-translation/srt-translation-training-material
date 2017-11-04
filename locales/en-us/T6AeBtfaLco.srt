@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:00,270 --> 00:00:03,570
 So the final change we're going to make, is thinking about our
 

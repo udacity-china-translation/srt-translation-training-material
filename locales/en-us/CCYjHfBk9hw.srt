@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:00,000 --> 00:00:03,915
 Here are the configuration file that I've downloaded and unzipped.
 
